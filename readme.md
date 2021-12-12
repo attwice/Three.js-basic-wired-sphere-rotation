@@ -2,12 +2,6 @@
 
 *Get started with Three.js to render 3d Web Experience*
 
-![Image Title](https://github.com/mohnishlandge/webgl-assets/blob/main/Screenshot%20(159).png)
-
-[Youtube Setup Video](https://youtu.be/MmjZG-UX30g)
-
-[Demo](https://threejs-template.netlify.app/)
-
 
 ## Installation
 
